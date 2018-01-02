@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--style 10-->
+    <color name="walkthrough10colorPrimary">#ea2064</color>
+    <color name="walkthrough10colorPrimaryDark">#b7194e</color>
+    <color name="walkthrough10colorAccent">#ea2064</color>
+    <color name="walkthrough10Background">#ffffff</color>
+    <color name="button_magenta">#ea2064</color>
+</resources>
